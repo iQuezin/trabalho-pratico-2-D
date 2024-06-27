@@ -31,5 +31,7 @@
 </div>
 
 ### Links
-versel: tb-pratico2-438m4kmfm-kayque-dos-santos-almeidas-projects.vercel.app
-replit: https://replit.com/@KayqueSantos/trabalho-pratico-2
+<div>
+    <a href="tb-pratico2-438m4kmfm-kayque-dos-santos-almeidas-projects.vercel.app">VERSEL</a>
+    <a href="[tb-pratico2-438m4kmfm-kayque-dos-santos-almeidas-projects.vercel.app](https://replit.com/@KayqueSantos/trabalho-pratico-2)">REPLIT</a>
+</div>
