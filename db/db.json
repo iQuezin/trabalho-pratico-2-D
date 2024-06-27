@@ -1,0 +1,59 @@
+{
+  "colegas": [
+    {
+      "id": 1,
+      "nome": "João Pedro",
+      "urlGitHub": "https://github.com/JoaoRafa19",
+      "img": "https://avatars.githubusercontent.com/u/50741246?v=4"
+    },
+    {
+      "id": 2,
+      "nome": "Christian Gomes",
+      "urlGitHub": "https://github.com/christiansenagomes",
+      "img": "https://avatars.githubusercontent.com/u/164388478?v=4"
+    },
+    {
+      "id": 3,
+      "nome": "Yuri Zocoli",
+      "urlGitHub": "https://github.com/YuriZocoli",
+      "img": "https://avatars.githubusercontent.com/u/108819217?v=4"
+    }
+  ],
+  "conteudos": [
+    {
+      "id": 1,
+      "nome": "Rafaella Ballerini",
+      "urlimg": "https://yt3.googleusercontent.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s176-c-k-c0x00ffffff-no-rj",
+      "descricao": "No canal você poderá acompanhar minha experiência no mundo tech e dicas sobre como se encaixar na área. Talvez um pouco do universo geek também",
+      "urlYt": "https://www.youtube.com/@rafaellaballerini"
+    },
+    {
+      "id": 2,
+      "nome": "Curso em Vídeo",
+      "urlimg": "https://yt3.googleusercontent.com/ytc/AIdro_m-8zZRJBWMwnaHcJgQv2IRr0dLcqCv1yKcQHgSEZ26jHw=s176-c-k-c0x00ffffff-no-rj",
+      "descricao": "Cursos em vídeo-aulas totalmente gratuitos, criados pelo Professor Gustavo Guanabara.",
+      "urlYt": "https://www.youtube.com/c/CursoemV%C3%ADdeo"
+    },
+    {
+      "id": 3,
+      "nome": "Gabriel Pato",
+      "urlimg": "https://yt3.googleusercontent.com/ytc/AIdro_kzCFeXx1Fur0ZyRY_enNS0_r5CfAyZdwnSRytsik0IpRU=s176-c-k-c0x00ffffff-no-rj",
+      "descricao": "Gabriel Pato é um canal no YouTube focado em segurança da informação e hacking ético, onde são exploradas vulnerabilidades cibernéticas e técnicas de proteção. O conteúdo educativo e prático visa tornar temas complexos acessíveis ao público geral.",
+      "urlYt": "https://www.youtube.com/@GabrielPato"
+    },
+    {
+      "id": 4,
+      "nome": "Fernanda Kipper",
+      "urlimg": "https://yt3.googleusercontent.com/fXYbWD5PCNPNraxKgCY5B62bziTdpMOrs6K56POhERKeWEMybVgRaN093a_VoN6nMLo2YTsduw=s176-c-k-c0x00ffffff-no-rj",
+      "descricao": "Fernanda Kipper | dev é um canal no YouTube dedicado ao desenvolvimento de software, oferecendo tutoriais e dicas sobre programação para todos os níveis. Com uma abordagem clara e didática, Fernanda cobre diversas linguagens, frameworks e ferramentas.",
+      "urlYt": "https://www.youtube.com/@kipperdev"
+    },
+    {
+      "id": 5,
+      "nome": "Código Fonte TV",
+      "urlimg": "https://yt3.googleusercontent.com/jKYyKomWrcwv0hgbPr8Jof6ZH8nP4EfrbRt4iWbseLwITGo2r8Rj2ksxv7WYy7Y4yBcFst2MVn8=s176-c-k-c0x00ffffff-no-rj",
+      "descricao": "Gabriel Fróes e Vanessa Weber, casal de programadores desde 1996, criaram o Código Fonte TV como porta de entrada para novos programadores. O canal oferece diversos conteúdos sobre programação de forma divertida e didática.",
+      "urlYt": "https://www.youtube.com/@codigofontetv"
+    }
+  ]
+}

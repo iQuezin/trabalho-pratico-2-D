@@ -1,0 +1,70 @@
+* {
+    font-family: "Poppins";
+    box-sizing: border-box;
+    user-select: none;
+    padding: 0;
+    margin: 0;
+    user-select: none;
+}
+
+#btn-return {
+    background-color: transparent;
+    border: none;
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#btn-return:hover {
+    color: darkslategray;
+}
+#meuNome {
+    cursor: pointer;
+}
+
+.card-body {
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
+
+main h5 {
+    color: darkslategray;
+    font-weight: 800;
+}
+
+main h6 {
+    color: darkslategray;
+    font-weight: 700;
+}
+
+main p {
+    margin-left: 7px;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: justify;
+}
+
+main a {
+    text-decoration: none;
+    color: black;
+    margin-left: 7px;
+    text-align: justify;
+}
+main a:hover {
+    text-decoration: underline;
+}
+
+#lingRep {
+    font-size: 20px;
+    font-weight: 900;
+    text-shadow: 1px 1px 3px black;
+    color: mediumspringgreen;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: darkslategray;
+}
+
+#copyright {
+    font-size: 10px;
+    text-align: center;
+}
