@@ -29,3 +29,7 @@
     <a href="www.linkedin.com/in/kayque-dsa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="github.com/iQuezin" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=gray&color=gray" target="_blank"></a>
 </div>
+
+### Links
+versel: tb-pratico2-438m4kmfm-kayque-dos-santos-almeidas-projects.vercel.app
+replit: https://replit.com/@KayqueSantos/trabalho-pratico-2
